@@ -1,0 +1,3 @@
+C:/Users/youss/Desktop/MATERIAL/semester VII/Embedded/project/MS2/blink/build/pioasm/CMakeFiles/pioasm.dir
+C:/Users/youss/Desktop/MATERIAL/semester VII/Embedded/project/MS2/blink/build/pioasm/CMakeFiles/edit_cache.dir
+C:/Users/youss/Desktop/MATERIAL/semester VII/Embedded/project/MS2/blink/build/pioasm/CMakeFiles/rebuild_cache.dir
